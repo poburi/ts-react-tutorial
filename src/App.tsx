@@ -2,6 +2,8 @@ import React from "react";
 import Greetings from "./Greetings";
 import Count from "./Counter";
 import MyForm from "./MyForm";
+import CounterReducer from "./CounterReducer";
+import Reducer from "./Reducer";
 
 const App: React.FC = () => {
   const onClick = (name: string) => {
@@ -16,6 +18,8 @@ const App: React.FC = () => {
       <Greetings name="Poburi" onClick={onClick} />
       <Count />
       <MyForm onSubmit={onSubmit} />
+      <CounterReducer />
+      <Reducer />
     </>
   );
 };
