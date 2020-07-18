@@ -19,7 +19,7 @@ function reducer(state: State, action: Action): State {
   switch (action.type) {
     case "SET_COUNT":
       return {
-        ...state,
+        ...state, // 얘 안써주면 count만 남고 다 사라져
         count: action.count,
       };
     case "SET_TEXT":
