@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ts-react-tutorial/static/js/main.708d0a23.chunk.js",
-    "main.js.map": "/ts-react-tutorial/static/js/main.708d0a23.chunk.js.map",
-    "runtime-main.js": "/ts-react-tutorial/static/js/runtime-main.8a312044.js",
-    "runtime-main.js.map": "/ts-react-tutorial/static/js/runtime-main.8a312044.js.map",
-    "static/js/2.fee48f74.chunk.js": "/ts-react-tutorial/static/js/2.fee48f74.chunk.js",
-    "static/js/2.fee48f74.chunk.js.map": "/ts-react-tutorial/static/js/2.fee48f74.chunk.js.map",
+    "main.js": "/ts-react-tutorial/static/js/main.90e46495.chunk.js",
+    "main.js.map": "/ts-react-tutorial/static/js/main.90e46495.chunk.js.map",
+    "runtime-main.js": "/ts-react-tutorial/static/js/runtime-main.d05a3cf1.js",
+    "runtime-main.js.map": "/ts-react-tutorial/static/js/runtime-main.d05a3cf1.js.map",
+    "static/js/2.773d336a.chunk.js": "/ts-react-tutorial/static/js/2.773d336a.chunk.js",
+    "static/js/2.773d336a.chunk.js.map": "/ts-react-tutorial/static/js/2.773d336a.chunk.js.map",
     "index.html": "/ts-react-tutorial/index.html",
-    "precache-manifest.73a30dba253b72f01a7370594cae4405.js": "/ts-react-tutorial/precache-manifest.73a30dba253b72f01a7370594cae4405.js",
+    "precache-manifest.cfa5747b30e8ed1d7134db604460d23d.js": "/ts-react-tutorial/precache-manifest.cfa5747b30e8ed1d7134db604460d23d.js",
     "service-worker.js": "/ts-react-tutorial/service-worker.js",
-    "static/js/2.fee48f74.chunk.js.LICENSE.txt": "/ts-react-tutorial/static/js/2.fee48f74.chunk.js.LICENSE.txt"
+    "static/js/2.773d336a.chunk.js.LICENSE.txt": "/ts-react-tutorial/static/js/2.773d336a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a312044.js",
-    "static/js/2.fee48f74.chunk.js",
-    "static/js/main.708d0a23.chunk.js"
+    "static/js/runtime-main.d05a3cf1.js",
+    "static/js/2.773d336a.chunk.js",
+    "static/js/main.90e46495.chunk.js"
   ]
 }
